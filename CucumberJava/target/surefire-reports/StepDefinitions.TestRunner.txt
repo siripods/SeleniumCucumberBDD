@@ -1,0 +1,135 @@
+-------------------------------------------------------------------------------
+Test set: StepDefinitions.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 10, Skipped: 1, Time elapsed: 44.342 sec <<< FAILURE!
+Check logout link(Check home page functionality)  Time elapsed: 0.51 sec  <<< ERROR!
+java.lang.NullPointerException
+	at StepDefinitions.LoginDemoSteps_PF.user_is_on_login_page(LoginDemoSteps_PF.java:53)
+	at ?.user is on login page(file:///D:/Research/Cucumber/workspace/CucumberJava/src/test/resources/Features/BackgroundDemo/BackgroundDemo.feature:4)
+
+Check logout link(Check home page functionality)  Time elapsed: 0.512 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "clicks on login button" is undefined. You can implement it using the snippet(s) below:
+
+@When("clicks on login button")
+public void clicks_on_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("user clicks on Welcome link")
+public void user_clicks_on_Welcome_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("logout link is displayed")
+public void logout_link_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Check logout link(Check home page functionality)  Time elapsed: 0.512 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "user clicks on Welcome link" is undefined. You can implement it using the snippet(s) below:
+
+@When("user clicks on Welcome link")
+public void user_clicks_on_Welcome_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@Then("logout link is displayed")
+public void logout_link_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Check logout link(Check home page functionality)  Time elapsed: 0.512 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "logout link is displayed" is undefined. You can implement it using the snippet(s) below:
+
+@Then("logout link is displayed")
+public void logout_link_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Verify quick launch menu bar is present(Check home page functionality)  Time elapsed: 0.008 sec  <<< ERROR!
+java.lang.NullPointerException
+	at StepDefinitions.LoginDemoSteps_PF.user_is_on_login_page(LoginDemoSteps_PF.java:53)
+	at ?.user is on login page(file:///D:/Research/Cucumber/workspace/CucumberJava/src/test/resources/Features/BackgroundDemo/BackgroundDemo.feature:4)
+
+Verify quick launch menu bar is present(Check home page functionality)  Time elapsed: 0.009 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "clicks on login button" is undefined. You can implement it using the snippet(s) below:
+
+@When("clicks on login button")
+public void clicks_on_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("user clicks on Dashboard link")
+public void user_clicks_on_Dashboard_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("quick launch toolbar is displayed")
+public void quick_launch_toolbar_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Verify quick launch menu bar is present(Check home page functionality)  Time elapsed: 0.009 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "user clicks on Dashboard link" is undefined. You can implement it using the snippet(s) below:
+
+@When("user clicks on Dashboard link")
+public void user_clicks_on_Dashboard_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@Then("quick launch toolbar is displayed")
+public void quick_launch_toolbar_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Verify quick launch menu bar is present(Check home page functionality)  Time elapsed: 0.009 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "quick launch toolbar is displayed" is undefined. You can implement it using the snippet(s) below:
+
+@Then("quick launch toolbar is displayed")
+public void quick_launch_toolbar_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Check login is successful with valid credentials(feature to test login functionality)  Time elapsed: 0.008 sec  <<< ERROR!
+java.lang.NullPointerException
+	at StepDefinitions.LoginDemoSteps_PF.user_is_on_login_page(LoginDemoSteps_PF.java:53)
+	at ?.user is on login page(file:///D:/Research/Cucumber/workspace/CucumberJava/src/test/resources/Features/login.feature:7)
+
+Check login is successful with valid credentials(feature to test login functionality)  Time elapsed: 0.008 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step "clicks on login button" is undefined. You can implement it using the snippet(s) below:
+
+@When("clicks on login button")
+public void clicks_on_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

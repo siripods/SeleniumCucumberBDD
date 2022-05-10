@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.6.3
+Built-By: Siripod
+Build-Jdk: 11.0.2
+
+Name: CucumbeerBDDCMD
+MyVersion: 1.2.0
+groupId: com.cucumber.demo
+artifactId: CucumbeerBDDCMD
+
